@@ -1,9 +1,12 @@
 # Python
 
+--
+
 Python dedicated repository
 
 ---
 
+Jupyter Notebooks
 - [Python basics](/Notebooks/Python.ipynb)
 - [Jupyter](/Notebooks/Jupyter.ipynb)
 - [NumPy](/Notebooks/NumPy.ipynb)
