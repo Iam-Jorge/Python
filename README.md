@@ -8,3 +8,5 @@ Python dedicated repository
 - [Pandas](/Notebooks/Pandas.ipynb)
 - [Data Science](/Notebooks/DataScience.ipynb)
 - [Data Mining](/Notebooks/DataMining.ipynb)
+
+---
