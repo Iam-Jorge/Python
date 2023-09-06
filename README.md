@@ -24,6 +24,16 @@ Resources used
 - [Saylor Python for Data Science](https://learn.saylor.org/course/view.php?id=504)
 - [MLNuggets](https://www.machinelearningnuggets.com)
 - [CS50 Introduction to AI](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
+- [GitHub ML Resources](https://github.com/dair-ai/ML-YouTube-Courses)
+- [Machine Learning Stanford](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Data Science with IBM](https://www.coursera.org/specializations/advanced-data-science-ibm)
+- [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [AI a Modern Approach](https://web.cs.ucla.edu/~srinath/static/pdfs/AIMA.pdf)
+- [MIT AI](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/readings/)
+- [Data Mining](/Notebooks/DataMining.ipynb)
+- [Natural Language Processing](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+- [Deep Learning](https://d2l.ai/)
+- [Practical Deep Learning](https://course.fast.ai/)
 
 ---
 
