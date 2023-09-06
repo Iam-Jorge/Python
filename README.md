@@ -12,7 +12,7 @@ Jupyter Notebooks
 - [Data Science](/Notebooks/DataScience.ipynb)
 - [Data Mining](/Notebooks/DataMining.ipynb)
 - [Artificial Intelligence](/Notebooks/AI.ipynb)
-- 
+
 ---
 
 Resources used
