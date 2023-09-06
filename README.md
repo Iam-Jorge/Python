@@ -11,6 +11,7 @@ Jupyter Notebooks
 - [Pandas](/Notebooks/Pandas.ipynb)
 - [Data Science](/Notebooks/DataScience.ipynb)
 - [Data Mining](/Notebooks/DataMining.ipynb)
+- [Artificial Intelligence](/Notebooks/AI.ipynb)
 
 ---
 
