@@ -35,6 +35,13 @@ Resources used
 - [Natural Language Processing](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 - [Deep Learning](https://d2l.ai/)
 - [Practical Deep Learning](https://course.fast.ai/)
-
+- [Deep Learning AI](https://www.deeplearning.ai/courses/)
+- [Google Machine Learning](https://developers.google.com/machine-learning)
+- [FreeCodeCamp Machine Learning](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+- [Github](https://github.com/ageron/handson-ml3/blob/main/index.ipynb)
+- [Github 2](https://github.com/rowannicholls/rowannicholls.github.io)
+- [Github 3](https://github.com/amitness/learning)
+- [Github 4](https://github.com/d0r1h/ML-University)
+  
 ---
 
