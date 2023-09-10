@@ -36,6 +36,7 @@ Resources used
 - [Deep Learning](https://d2l.ai/)
 - [Practical Deep Learning](https://course.fast.ai/)
 - [Deep Learning AI](https://www.deeplearning.ai/courses/)
+- [Elements of AI](https://www.elementsofai.com)
 - [Google Machine Learning](https://developers.google.com/machine-learning)
 - [FreeCodeCamp Machine Learning](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [Github](https://github.com/ageron/handson-ml3/blob/main/index.ipynb)
@@ -45,4 +46,5 @@ Resources used
 - [Github 4](https://github.com/d0r1h/ML-University)
   
 ---
+
 
