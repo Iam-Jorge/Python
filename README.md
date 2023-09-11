@@ -45,6 +45,10 @@ Resources used
 - [Github 2](https://github.com/rowannicholls/rowannicholls.github.io)
 - [Github 3](https://github.com/amitness/learning)
 - [Github 4](https://github.com/d0r1h/ML-University)
+- [Natural Language Processing MOOC Helsinki](https://applied-language-technology.mooc.fi/html/notebooks/part_iii/01_multilingual_nlp.html)
+- [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/dap-22)
+- [AI MOOC](https://materiaalit.github.io/intro-to-ai/)
+
   
 ---
 
