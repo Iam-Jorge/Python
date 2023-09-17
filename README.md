@@ -19,7 +19,7 @@
 
 **Libraries needed and used**, the following command will install them all
 
-> pip install numpy jupyterlab notebook DateTime pandas mimesis matplotlib seaborn scipy pywaffle pandoc scikit-learn statsmodels
+> pip install numpy jupyterlab notebook DateTime pandas mimesis matplotlib seaborn scipy pywaffle scikit-learn statsmodels
 
 ---
 
