@@ -1,10 +1,12 @@
-# Python
-
-Python dedicated repository
+# **_Python_**
 
 ---
 
-Jupyter Notebooks
+**_Python dedicated repository_**
+
+---
+
+**Notebooks**
 - [Python basics](/Notebooks/Python.ipynb)
 - [Jupyter](/Notebooks/Jupyter.ipynb)
 - [NumPy](/Notebooks/NumPy.ipynb)
@@ -12,10 +14,17 @@ Jupyter Notebooks
 - [Data Science](/Notebooks/DataScience.ipynb)
 - [Data Mining](/Notebooks/DataMining.ipynb)
 - [Artificial Intelligence](/Notebooks/AI.ipynb)
+  
+---
+
+**Libraries needed and used**, the following command will install them all
+
+> pip install numpy jupyterlab notebook DateTime pandas mimesis matplotlib seaborn scipy pywaffle scikit-learn statsmodels
 
 ---
 
-Resources used
+**Resources used**
+
 - [FreeCodeCamp Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - [Python for Everybody](https://www.py4e.com)
 - [Kaggle](https://www.kaggle.com)
@@ -49,6 +58,4 @@ Resources used
 - [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/dap-22)
 - [AI MOOC](https://materiaalit.github.io/intro-to-ai/)
 
-  
 ---
-
